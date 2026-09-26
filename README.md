@@ -2,10 +2,9 @@
 
 Flutter Mobile Developer with 3 years of experience building cross-platform apps for Android & iOS.
 
-- 🛒 **E-commerce:** Responsive product UIs, seller-facing tools, product/variant management
+- 🛒 **E-commerce:** Responsive product UIs, seller-facing tools, product/variant management, Braintree payment integration
 - 📱 **Social/Real-time:** Live comments, reactions, and in-app payment (coin-based tipping) systems
-- 🧰 **Utility App:** Contributed to a Flutter app with 20+ integrated tools, building [X, Y, Z features]
-
+- 🧰 **Utility App:** Built a Flutter app with 20+ integrated tools — including QR generator, QR scanner, password generator, and unit converter
 - 🛠️ **Stack:** Flutter, Dart, GetX, Bloc, Provider, flutter_screenutil, Dio/REST APIs, GraphQL, Stripe, Braintree
 - 🚀 Experience publishing on Google Play Store & Apple App Store
 
